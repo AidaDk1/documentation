@@ -1,0 +1,28 @@
+*{
+    margin:0;
+
+}
+.container{
+    width:800px;
+    height:2400px;
+    margin-left:300px;
+    margin-right:300px;
+}
+
+p{
+
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color:black;
+
+}
+img{
+    width:800px;
+    height:500px;
+}
+.part1{
+    background-color: burlywood;
+}
+h3{
+    padding-top:20px;
+}
